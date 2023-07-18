@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20230715_joshgebbeken_nycschools</string>
+    <string name="general_error_title">General Error</string>
+    <string name="general_error_description">Something went wrong</string>
+    <string name="api_error_title">Error</string>
+    <string name="api_error_description">Something went wrong accessing services</string>
+    <string name="no_sat_scores_for_school_title">No SAT Scores</string>
+    <string name="no_sat_scores_description">This school does not have Sat Scores, please try another.</string>
+</resources>
